@@ -35,6 +35,7 @@ public:
 	// Getters/setters
 	std::optional<int> get(std::string key);
 	void put(std::string key, int val);
+
 	bool getInProcess();
 	void setInProcess(bool inProcess);
 
