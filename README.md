@@ -1,5 +1,5 @@
 # simple-transactiondb
-A simple map based in-memory transaction database utilizing C++ v20.
+A simple console based in-memory transaction database utilizing C++ v20.
 
 ## Set-up/Testing
 - Make sure you're running on C++ version 20
